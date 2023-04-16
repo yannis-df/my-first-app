@@ -9,8 +9,6 @@ import tkinter as tk
 from tkinter import filedialog, Text
 # from tkinter import filedialog
 
-
-# isdjfogiqjsd
 root = tk.Tk()
 
 apps = []
